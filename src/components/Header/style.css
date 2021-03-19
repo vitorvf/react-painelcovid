@@ -1,0 +1,35 @@
+#home {
+  background: white;
+  color: black;
+  height: 550px;
+}
+
+.caixa {
+  padding: 60px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+  margin: 5px 15px;
+}
+
+#home p {
+  font-size: 1.25rem;
+  margin-left: 100px;
+}
+
+.texth1 {
+  font-size: 2.5rem !important;
+  line-height: 1.2 !important;
+  margin-left: 100px;
+}
+
+#borda {
+  margin-left: 94px;
+  border-top: 1px solid #dee2e6 !important;
+  width: 1122px;
+}
+
+#nav-principal {
+  margin-right: 95px;
+}
